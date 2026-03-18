@@ -1,5 +1,15 @@
-## Hi there 👋
+## Hey 👋
+I'm Brendan, a learning software developer based in the United States.
 
+Currently, I am trying to learn what I can about developing games.
+
+I know some things about Python and I'm trying to learn more about Unity. 
+
+Fun Facts:
+- I have a dog and three cats
+- I enjoy coffee a lot
+- I enjoy playing games in my free time
+- **Hobbies:** games, gym, watching shows
 <!--
 **brightswan670/brightswan670** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
