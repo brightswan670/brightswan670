@@ -1,10 +1,9 @@
 ## Hey 👋
 I'm Brendan, a learning software developer based in the United States.
 
-Currently, I am trying to learn what I can about developing games.
+Currently, I am trying to learn what I can about C++
 
-I know some things about Python and I'm trying to learn more about Unity. 
-
+I know some things about Python and Java
 Fun Facts:
 - I have a dog and three cats
 - I enjoy coffee a lot
