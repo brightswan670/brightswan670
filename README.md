@@ -1,9 +1,7 @@
 ## Hey 👋
-I'm Brendan, a learning software developer based in the United States.
+I'm Brendan, a learning Electrical Engineer based in the United States.
 
-Currently, I am trying to learn what I can about C++
-
-I know some things about Python and Java
+I have experience in Python and Java
 Fun Facts:
 - I have a dog and three cats
 - I enjoy coffee a lot
