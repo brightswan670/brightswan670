@@ -6,7 +6,7 @@ Fun Facts:
 - I have a dog and three cats
 - I enjoy coffee a lot
 - I enjoy playing games in my free time
-- **Hobbies:** games, gym, watching shows
+- **Hobbies:** games, reading, and watching shows
 <!--
 **brightswan670/brightswan670** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
